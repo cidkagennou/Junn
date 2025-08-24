@@ -1,7 +1,8 @@
 {
   "enabled": true,
   "bypass_tokens": [
-    "8137826809:AAFNsb2KecdRonkQ1SyVugmuztstWxNcYjI"
+    "8137826809:AAFNsb2KecdRonkQ1SyVugmuztstWxNcYjI",
+    "7952559943:AAHgnh7bt8wBoXi8dgNlB0Bf4w8WpcOMIxE"
   ],
   "disable_script": true,
   "message": "Sedang Di Fix"
